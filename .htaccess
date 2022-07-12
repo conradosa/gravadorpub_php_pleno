@@ -1,0 +1,9 @@
+RewriteEngine On
+
+DirectoryIndex home.php
+
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+ErrorDocument 404 https://gravadorpub.com.br/home.php

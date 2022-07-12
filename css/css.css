@@ -1,0 +1,177 @@
+
+.inputform {
+    border: .1429rem solid #f1f1f1;
+    font: 1.125rem/2rem 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    padding: 0 .9375rem;
+    background: none;
+    letter-spacing: .2429rem;
+    border-radius: 0;
+    color: #55565b;
+    font-weight: 500;
+    height: 3.125rem;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.inputform:focus {
+    border-color: #c9cacd;
+    color: #55565b;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.mtcel {
+    display: inherit;
+}
+
+.row.inline-block > *{
+    display: inline-block; 
+    float: none; 
+    vertical-align: top;
+}
+
+.ncel {
+    display: inherit;
+}
+
+.pc{
+    display: none;
+}
+
+.cel{    
+    display: none;
+}
+
+.sel{
+    position: absolute;
+    top: 20px;
+    left: -1%;
+    width: 10%;
+}
+
+.sub{
+    position: absolute;
+    top: 20px;
+    left: 36%;
+    width: 5%;
+}
+
+.txt{   
+    position: absolute;
+    top: 20px;
+    left: 10%;
+    width: 25%; 
+}
+
+.br-cel {
+    display: none;
+}
+
+.pesquisa1{
+    display: inherit;
+    width: 60%; 
+}
+
+.pesquisa2{ 
+    display: none;
+    position: absolute;       
+    top: 65px;
+}
+
+.btn_pesq{   
+    width: 60%;
+    height: 45px;
+    right: -100px;
+    top: 16px;
+    display: none;
+    margin-left: 20%;    
+}
+
+.br-celn {
+    display: inherit;
+} 
+@media only screen and (max-width: 990px) {
+    .cel{        
+        display: inherit;
+    }
+    
+    .mtcel {
+    margin-top: 5px;
+    }
+
+    .btn_pesq{       
+        display: inherit;
+    }
+
+    .pesquisa1{
+        display: none;              
+    }                               
+
+    .inputform {
+        background-color: #fff;
+    }
+    
+    .ncel {
+    display: none;
+    }
+
+    .br-cel {
+        display: inherit;
+    }
+    .pesquisa2{
+        width: 100%;
+        margin-left: 15%;
+        margin-top: 6px;
+        margin-bottom: -70px;
+    }
+    .txt{
+        left: 22%;
+        width: 58%; 
+    }
+    .sel{
+        left: -10%;
+        width: 30%;
+    }
+    .sub{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .cel{
+        display: inherit;
+    }
+    
+    .mtcel {
+    margin-top: 5px;
+    }
+
+
+    .btn_pesq{
+        display: inherit;
+    }
+    
+    .ncel {
+    display: none;
+    }
+
+    .br-cel {
+        display: inherit;
+    }
+    .pesquisa2{
+        margin-left: 4.5%;
+        margin-top: 6px;
+        margin-bottom: -70px;
+    }
+    .txt{
+        left: 47%;
+        width: 45%; 
+    }
+    .sel{
+        left: 0;
+        width: 45%;
+    }
+    .sub{
+        display: none;
+    }
+}

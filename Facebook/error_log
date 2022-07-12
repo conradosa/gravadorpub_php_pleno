@@ -1,0 +1,159 @@
+[21-Mar-2017 06:59:22 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 12
+[21-Mar-2017 07:00:56 UTC] PHP Warning:  mysqli::mysqli(): (42000/1044): Access denied for user 'chasingp_singh'@'localhost' to database 'fchasingp_fundlr_new' in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 12
+[21-Mar-2017 07:01:44 UTC] PHP Notice:  Undefined index: email in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 23
+[21-Mar-2017 07:01:44 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:25:38 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:25:38 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:26:56 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:26:56 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:27:38 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:27:38 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:30:17 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:30:17 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:30:17 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:00 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:00 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:15 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:15 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:22 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:22 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:33 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:33 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:35 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:35 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:32:52 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:32:52 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:35:14 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:35:14 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:35:15 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:35:15 UTC] PHP Notice:  Undefined variable: output in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 62
+[21-Mar-2017 08:35:43 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:36:02 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:37:14 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:37:14 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:38:09 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:38:09 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 08:39:07 UTC] PHP Notice:  Undefined index: email in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 23
+[21-Mar-2017 08:39:07 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:39:07 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:51:18 UTC] PHP Notice:  Trying to get property of non-object in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 26
+[21-Mar-2017 08:51:18 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:51:18 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 32
+[21-Mar-2017 08:51:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 38
+[21-Mar-2017 08:52:16 UTC] CSRF state token does not match one provided.
+[21-Mar-2017 08:52:16 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[21-Mar-2017 09:09:17 UTC] PHP Notice:  Undefined index: email in /home/chasingp/public_html/fb.chasingpapers.com/index.php on line 23
+[21-Mar-2017 09:09:17 UTC] PHP Warning:  date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /home/chasingp/public_html/fb.chasingpapers.com/User.php on line 28
+[16-Apr-2022 22:55:20 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:55:20 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:55:23 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:55:23 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:55:30 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:55:30 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:56:01 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:56:01 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:07 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:07 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:09 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:09 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:11 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:11 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:12 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:12 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:14 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:14 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:15 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:15 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:15 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:15 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:16 America/Fortaleza] PHP Warning:  require_once(Facebook/fbConfig.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:16 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'Facebook/fbConfig.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/index.php on line 3
+[16-Apr-2022 22:57:30 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:30 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:32 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:32 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:33 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:33 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:34 America/Fortaleza] PHP Warning:  require_once(lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:57:34 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required 'lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:58:05 America/Fortaleza] PHP Warning:  require_once(./lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:58:05 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required './lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 22:59:21 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 /home2/gravad80/public_html/Facebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[16-Apr-2022 22:59:37 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[16-Apr-2022 22:59:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[16-Apr-2022 23:00:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[16-Apr-2022 23:01:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home2/gravad80/public_html/Facebook/fbConfig.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:01:32 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home2/gravad80/public_html/Facebook/fbConfig.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:01:34 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function base_path() in /home2/gravad80/public_html/Facebook/fbConfig.php:5
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:02:31 America/Fortaleza] PHP Warning:  require_once(/home2/gravad80/public_html/Facebooklib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:02:31 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/home2/gravad80/public_html/Facebooklib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:02:56 America/Fortaleza] PHP Warning:  require_once(/home2/gravad80/public_html/Facebook/lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:02:56 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/home2/gravad80/public_html/Facebook/lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:03:01 America/Fortaleza] PHP Warning:  require_once(/home2/gravad80/public_html/Facebook/lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:03:01 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/home2/gravad80/public_html/Facebook/lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[16-Apr-2022 23:03:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:56:17 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:56:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:56:52 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:58:19 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:58:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 /home2/gravad80/public_html/Facebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:58:25 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 /home2/gravad80/public_html/Facebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:58:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Class 'Facebook' not found in /home2/gravad80/public_html/Facebook/fbConfig.php:18
+Stack trace:
+#0 /home2/gravad80/public_html/Facebook/index.php(3): require_once()
+#1 {main}
+  thrown in /home2/gravad80/public_html/Facebook/fbConfig.php on line 18
+[17-Apr-2022 14:59:11 America/Fortaleza] PHP Warning:  require_once(/lib/Facebook/Facebook.php): failed to open stream: No such file or directory in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[17-Apr-2022 14:59:11 America/Fortaleza] PHP Fatal error:  require_once(): Failed opening required '/lib/Facebook/Facebook.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home2/gravad80/public_html/Facebook/fbConfig.php on line 5
+[17-Apr-2022 15:05:41 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:05:43 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:10:02 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:12:08 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:12:08 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:12:09 America/Fortaleza] CSRF state token does not match one provided.
+[17-Apr-2022 15:17:08 America/Fortaleza] CSRF state token does not match one provided.
